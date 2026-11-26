@@ -128,7 +128,7 @@ export default function Home() {
     </aside>
 
     <section className="main">
-      <header className="topbar"><div><span className="crumb">PLATFORM</span><span className="slash">/</span><b>{tab==="estimate"?"Valuation Studio":tab==="batch"?"Batch Valuation":"Model Intelligence"}</b></div><div className="top-actions"><span className="live-dot"/> LIVE SYSTEM <a href="https://github.com/" target="_blank" rel="noreferrer" aria-label="GitHub"><Github size={18}/></a></div></header>
+      <header className="topbar"><div><span className="crumb">PLATFORM</span><span className="slash">/</span><b>{tab==="estimate"?"Valuation Studio":tab==="batch"?"Batch Valuation":"Model Intelligence"}</b></div><div className="top-actions"><span className="live-dot"/> LIVE SYSTEM <a href="https://github.com/vedantj27/CarInsight-Pro" target="_blank" rel="noreferrer" aria-label="GitHub"><Github size={18}/></a></div></header>
 
       <section className="hero">
         <div className="hero-copy"><div className="eyebrow"><Sparkles size={13}/> INTELLIGENT AUTOMOTIVE VALUATION</div>
