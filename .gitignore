@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+# Node / Next
+node_modules/
+.next/
+out/
+.vercel/
+frontend/.env.local
+# OS / editor
+.DS_Store
+.vscode/
+*.log
